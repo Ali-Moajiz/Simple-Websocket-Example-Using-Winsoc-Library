@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\dania\source\repos\WebSockets\WebSockets\main.cpp(22,26): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\dania\source\repos\WebSockets\WebSockets\main.cpp(55,28): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  Generating code
+  1 of 34 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WebSockets.vcxproj -> C:\Users\dania\source\repos\WebSockets\x64\Release\WebSockets.exe
